@@ -17,7 +17,7 @@ const PreparingOrderScreen = () => {
                 source={require("../assets/Road Map City Animation.gif")}
                 animation={'slideInUp'}
                 iterationCount={1}
-                className='h-64 w-64'
+                className='h-96 w-96'
             />
             <Animatable.Text
                 animation={'slideInUp'}
